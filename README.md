@@ -8,3 +8,4 @@
 - restore
 - branch
 - switch
+- merge
